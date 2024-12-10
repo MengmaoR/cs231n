@@ -1,2 +1,8 @@
 # cs231n
-cs231n assignments
+## assignments
+### assignment1
+- [x] K-NN classifier
+- [ ] SVM classifier
+- [ ] Softmax classifier
+- [ ] Two-layer neural network classifier
+- [ ] Image features
