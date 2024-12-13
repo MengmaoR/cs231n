@@ -7,6 +7,6 @@ However, I'll try my best, and willing for discussions.
 ### assignment1
 - [x] K-NN classifier
 - [x] SVM classifier
-- [ ] Softmax classifier
+- [x] Softmax classifier
 - [ ] Two-layer neural network classifier
 - [ ] Image features
