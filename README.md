@@ -8,5 +8,9 @@ However, I'll try my best, and willing for discussions.
 - [x] K-NN classifier
 - [x] SVM classifier
 - [x] Softmax classifier
-- [ ] Two-layer neural network classifier
-- [ ] Image features
+- [x] Two-layer neural network classifier
+    - got 0.544 accuracy on the validation set, 0.555 on the test set
+    - higher than the best result of the assignment (0.52 on valid)
+- [x] Image features
+    - got 0.610 accuracy on the validation set, 0.59 on the test set
+    - on par with the best result of the assignment (0.6 on test)
