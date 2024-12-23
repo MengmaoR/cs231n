@@ -14,3 +14,6 @@ However, I'll try my best, and willing for discussions.
 - [x] Image features
     - got 0.610 accuracy on the validation set, 0.59 on the test set
     - on par with the best result of the assignment (0.6 on test)
+- [x] Generate submission
+
+**All lab done on assignment1**
